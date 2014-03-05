@@ -6,4 +6,8 @@ function note(note,accidental,octave)={
 	this.note		=note;
 	this.accidental	=accidental; // 0 = natural, 1 = sharp, -1 = flat
 	this.octave		=octave; // C0 = 55Hz, round number
+	this.number		
+}
+function compare(note1,note2){
+	
 }
